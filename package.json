@@ -1,0 +1,23 @@
+{
+  "name": "computeddistance",
+  "version": "1.0.0",
+  "description": "根据经纬度计算两地距离",
+  "main": "./lib/index.js",
+  "types": "./lib/types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrleidesen/computedDistance.git"
+  },
+  "keywords": [
+    "计算距离"
+  ],
+  "author": "mrleidesen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrleidesen/computedDistance/issues"
+  },
+  "homepage": "https://github.com/mrleidesen/computedDistance#readme"
+}
