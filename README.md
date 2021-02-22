@@ -7,6 +7,7 @@
 ```js
 import {getDistance} from "computeddistance"
 
+// 单位 千米
 console.log(getDistance(120.682866, 28.006224, 120.684937, 28.005762))
 ```
 

@@ -10,7 +10,9 @@
     "url": "git+https://github.com/mrleidesen/computedDistance.git"
   },
   "keywords": [
-    "计算距离"
+    "计算距离",
+    "经纬度计算",
+    "经纬度计算距离"
   ],
   "author": "mrleidesen",
   "license": "ISC",
