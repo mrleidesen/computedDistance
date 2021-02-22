@@ -1,11 +1,10 @@
 {
   "name": "computeddistance",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "根据经纬度计算两地距离",
   "main": "./lib/index.js",
   "types": "./lib/types/index.d.ts",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mrleidesen/computedDistance.git"
