@@ -1,6 +1,6 @@
 {
   "name": "computeddistance",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "根据经纬度计算两地距离",
   "main": "./lib/index.js",
   "types": "./lib/types/index.d.ts",
